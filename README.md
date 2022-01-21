@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English, Spanish %20%26%20 Italian-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Javier Pérez </h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Javier Pérez </h1>
 <h3 align="center">Data Engineer | Data Scientist </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/javier-p%C3%A9rez-garc%C3%ADa-b15244193/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_javierez" height="30" width="40" /></a>  
